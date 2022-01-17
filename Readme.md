@@ -13,7 +13,10 @@
 
   </a>  
 </p>
-
+ https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/main">
+26
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+27
 ##### Deploy
 You can deploy this bot anywhere.
 
